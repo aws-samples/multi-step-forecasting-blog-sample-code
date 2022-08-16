@@ -1,17 +1,11 @@
-## My Project
+## Multi-step forecasting sample code
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+This repository is used for sample code for multi-step forecasting of AWS China Blog. Including: 
+- Recursive forecasting
+- Direct forecasting
+- Recursive-direct-hybrid forecasting
+- multiple-output forecasting
 
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
